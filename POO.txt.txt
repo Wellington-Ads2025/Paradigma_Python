@@ -1,0 +1,35 @@
+Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o código em torno de objetos, que representam entidades do mundo real ou conceitos abstratos. Esses objetos possuem atributos (características) e métodos (comportamentos), permitindo que o código seja mais modular, reutilizável e fácil de entender.
+Os 4 pilares da POO
+
+
+Encapsulamento: Protege os dados de um objeto, permitindo acesso apenas por métodos específicos. Isso promove segurança e organização.
+
+Exemplo: Um objeto "Carro" pode ter um atributo "velocidade", mas ele só pode ser alterado por um método como acelerar().
+
+
+
+Herança: Permite que uma classe (subclasse) herde atributos e métodos de outra classe (superclasse), promovendo reutilização de código.
+
+Exemplo: Uma classe "Veículo" pode ser a superclasse de "Carro" e "Moto", compartilhando atributos como "cor" e "modelo".
+
+
+
+Polimorfismo: Permite que métodos com o mesmo nome tenham comportamentos diferentes dependendo do objeto.
+
+Exemplo: Um método mover() pode ter implementações diferentes para "Carro" e "Avião".
+
+
+
+Abstração: Foca nos aspectos essenciais de um objeto, escondendo detalhes complexos.
+
+Exemplo: Um objeto "Cafeteira" pode ter um método fazerCafe(), sem expor como o café é preparado internamente.
+
+
+
+Vantagens da POO
+
+Reutilização de código: Classes e métodos podem ser reaproveitados em diferentes partes do programa.
+Manutenção facilitada: O código é mais organizado e modular.
+Simulação do mundo real: A estrutura de objetos reflete entidades reais, tornando o desenvolvimento mais intuitivo.
+
+A POO é amplamente usada em linguagens como Java, Python, C++, C#, Ruby, entre outras. É uma abordagem poderosa para criar sistemas complexos de forma eficiente e organizada.
